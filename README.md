@@ -1,16 +1,16 @@
-## Hi there 👋
-Welcome to my GitHub Profile!
-<!--
-**honeypint/honeypint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🍯 Honeypint (Kyle Cox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic)](https://www.linkedin.com/in/kyle-cox-6313402aa)
+## About Me
+Hello! I'm Kyle! I'm a Computer Science student who graduated in December 2025. Notably, I've worked on a handful of projects over the years, ranging from some full stack development to game development.
 
-Here are some ideas to get you started:
+## Projects
+  - [**Monumenta**](https://www.playmonumenta.com/): A Minecraft "CTM MMO RPG" server that has been in development since June 2016. I joined the development team back in Augus 2024, and have since then become a Core Contributor. I have worked on plugins for the server, which are programmed in **Java**. I also have worked with Minecraft function files and other types of `.json` files. Some additions I have worked on include the following:
+    - Work for the in-game "Seasonal Pass" system, featuring a missions and rewards track. This work includes simplifying mission creation by creating a web-based (HTML) tool to generate mission and rewards JSON files which can be found in [Monumenta's ScriptedQuests Repository](https://github.com/TeamMonumenta/scripted-quests).
+    - In-game items, such as an enchantment allowing for "signing" an item based on a player name or a guild name, a storage container for "charm" items, and many other tweaks and features.
+    - Many bug fixes. Like, a lot of them. It's a rite of passage for any type of game development, even plugin development!
+    - All of this work can be found on [Monumenta's Public Repository](https://github.com/TeamMonumenta/monumenta-plugins-public), submitted as merged pull requests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Transaction Tracker Application**: A full-stack budgeting application developed from database, to microservice, to frontend/backend in a team within the months of August 2025 to December 2025.
+    - Tools used for this project include GitHub (version control), Figma, SQL, MariaDB (database), Angular (frontend), and Java Spring Boot (backend). 
+    - The repository for the UI of this project can be found [here](https://github.com/WSU-kduncan/cs4900-ui-wolf-of-wright-street). Linked within this repository are also other resources used for the API.
+ 
